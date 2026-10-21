@@ -19,7 +19,7 @@
 ### SHA-256 checksums
 | File | SHA-256 |
 |---|---|
-| `bitcore-wallet-v8.25.3.exe` | `7962b1c4d681f044c34a0eda9c538a6bd0319b3fdc22f83edfb0990471bd2610` |
+| `bitcore-wallet-v8.25.3.exe` | `b27db185543dd94ec9a84c7854c49862478b03959c48525fe683027cd4d85456` |
 | `bitcore-wallet-v8.25.3.dmg` | `0af1f5284b5d33650980cf467d5d9c5f4df74ca6cf9fcdfd4ca4d4aeb99e44ae` |
 | `bitcore-wallet-v8.25.3.zip` | `230f817a488f35bcbbd8c83f41bd247a5202694b2d8eb32bbc946511a077370b` |
 
